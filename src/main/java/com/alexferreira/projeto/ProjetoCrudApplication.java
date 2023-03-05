@@ -8,7 +8,7 @@ public class ProjetoCrudApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(ProjetoCrudApplication.class, args);
-        System.out.println("test");
+
 
     }
 
